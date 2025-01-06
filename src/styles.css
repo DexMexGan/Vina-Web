@@ -27,6 +27,8 @@ header {
 
 .logo {
   height: 50px;
+  width: auto;
+  margin-right: 20px;
 }
 nav {
   flex-grow: 1;

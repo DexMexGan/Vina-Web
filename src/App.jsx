@@ -1,4 +1,4 @@
-import "./styles.css"; // Import your CSS file
+import "./styles.css"; // Import  CSS file
 
 import dessert1 from "./assets/PN3_1205.jpg"; // Dessert images
 import dessert2 from "./assets/PN3_1275.jpg";
@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       {/* Header */}
       <header>
+        <img src="./assets/3.png" alt="Mlem Mlem Logo" className="logo"/>
         <nav>
           <ul>
             <li>
